@@ -7,9 +7,11 @@ Este repositorio contiene los cuadernos (*notebooks*) de validación, y la docum
 
 ```text
 ├── notebooks/
-│   ├── 01_deteccion_anomalias_alumbrado.ipynb   # Torneo Sandbox y HPO univariante (Alumbrado)
-│   ├── 02_imputacion_huecos_beijing.ipynb       # Torneo Sandbox y HPO multivariante (Air Quality)
-│   └── 03_validacion_integridad_E2E.ipynb       # Cuaderno de pruebas funcionales avanzadas
+│   ├── 00_download_tsdb_datasets.ipynb   # Torneo Sandbox y HPO univariante (Alumbrado)
+│   ├── 01_topology_and_routing_validation.ipynb       # Torneo Sandbox y HPO multivariante (Air Quality)
+│   ├── 02_anomaly_detection_sandbox.ipynb       # Cuaderno de pruebas funcionales avanzadas
+│   ├── 03_gap_imputation_sandbox.ipynb       # Torneo Sandbox y HPO multivariante (Air Quality)
+│   └── 04_system_architecture.ipynb       # Cuaderno de pruebas funcionales avanzadas
 ├── docs/
-│   └── snapshot_api_endpoints.pdf               # Instantánea visual y contratos de la API REST
+│   └── timeseries_api.pdf               # Instantánea visual y contratos de la API REST
 └── README.md                                    # Este archivo
