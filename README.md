@@ -1,6 +1,7 @@
 # TFM: Asistente Automático de Evaluación de la Calidad del Dato
 
 Este repositorio contiene los cuadernos (*notebooks*) de validación, y la documentación asociada a la validación del Trabajo de Fin de Máster (TFM) desarrollado por Marcos Salas Lanza, "Asistente Automático de Evaluación de la Calidad del Dato". A continuación se muestra la estructura del repositorio:
+
 ---
 
 ## 📂 Estructura del Repositorio
